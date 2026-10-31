@@ -23,4 +23,6 @@
 #### Personal toys
 
 - [HEIMA_Puzzle_YUZHANG](https://github.com/dsqrwym/HEIMA_Puzzle_YUZHANG) — Java Swing puzzle game with Chinese, Spanish and English UI; tutorial-based learning project.
-- [DaFeiYu-Desktop-Pet](https://github.com/dsqrwym/DaFeiYu-Desktop-Pet) — native Win32 desktop pet in Rust; AI-assisted personal learning experiment, not affiliated with DeepSeek.
+- [AircraftWars (p5.js)](<https://github.com/dsqrwym/ProyectoFinal_1CFS_DAM_Llenguatges_de_marques>) — side-scrolling aircraft shooter in plain JavaScript + p5.js, three difficulty levels; first-year DAM coursework, playable in the browser ([live demo](<https://dsqrwym.github.io/ProyectoFinal_1CFS_DAM_Llenguatges_de_marques/JAVASCRIP_FINAL/AircraftWars_P5JS_CND/index.html>)).
+- [Genshin Impact site (HTML/CSS/JS)](<https://github.com/dsqrwym/Proyecto_1CFS_DAM-Llenguatges-de-marques...>) — multi-page static site (character pages, forms, embedded video/audio) built as markup-languages coursework; no framework, no build step ([live demo](<https://dsqrwym.github.io/Proyecto_1CFS_DAM-Llenguatges-de-marques.../GLOBAL_PRACTICE1/PG0.html>)).
+- [DaFeiYu-Desktop-Pet](https://github.com/dsqrwym/DaFeiYu-Desktop-Pet) — desktop pet of **DeepSeek's "Big Fat Fish" whale-girl mascot (大肥鱼鲸鱼娘)**; native Win32 in Rust, 100 animations over H.264 + 1-bit alpha, no Electron. Unofficial fan project and AI-assisted personal Rust experiment, not affiliated with DeepSeek.
