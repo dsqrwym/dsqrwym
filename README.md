@@ -7,8 +7,8 @@
 #### Core stack
 
 - **Kotlin:** Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Ktor · Coroutines · MVVM
-- **Backend:** NestJS · Fastify · TypeScript · Java · Spring Boot · jOOQ · Laravel
-- **Data:** PostgreSQL · MySQL · Redis · Drizzle · Prisma
+- **Backend:** NestJS (TypeScript) · Fastify · Spring Boot (Java) · Laravel (PHP)
+- **Data:** PostgreSQL · MySQL · Redis · Drizzle · Prisma · jOOQ
 - **Ops:** Docker · Linux · Git
 
 #### Featured projects
